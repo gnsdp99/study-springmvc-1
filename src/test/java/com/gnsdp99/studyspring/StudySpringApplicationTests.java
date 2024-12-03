@@ -1,10 +1,10 @@
-package com.gnsdp99.studyservlet;
+package com.gnsdp99.studyspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudyServletApplicationTests {
+class StudySpringApplicationTests {
 
     @Test
     void contextLoads() {

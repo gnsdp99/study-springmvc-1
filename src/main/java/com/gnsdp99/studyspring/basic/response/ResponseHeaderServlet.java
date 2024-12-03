@@ -1,4 +1,4 @@
-package com.gnsdp99.studyservlet.basic.response;
+package com.gnsdp99.studyspring.basic.response;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

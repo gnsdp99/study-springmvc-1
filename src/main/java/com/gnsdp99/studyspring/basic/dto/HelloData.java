@@ -1,4 +1,4 @@
-package com.gnsdp99.studyservlet.basic.dto;
+package com.gnsdp99.studyspring.basic.dto;
 
 import lombok.*;
 

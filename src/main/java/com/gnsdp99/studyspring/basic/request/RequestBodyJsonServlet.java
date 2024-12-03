@@ -1,7 +1,7 @@
-package com.gnsdp99.studyservlet.basic.request;
+package com.gnsdp99.studyspring.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.gnsdp99.studyservlet.basic.dto.HelloData;
+import com.gnsdp99.studyspring.basic.dto.HelloData;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.annotation.WebServlet;

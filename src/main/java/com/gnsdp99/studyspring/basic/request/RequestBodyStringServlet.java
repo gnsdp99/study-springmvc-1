@@ -1,4 +1,4 @@
-package com.gnsdp99.studyservlet.basic.request;
+package com.gnsdp99.studyspring.basic.request;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
