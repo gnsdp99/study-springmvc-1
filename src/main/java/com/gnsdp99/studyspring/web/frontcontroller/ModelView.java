@@ -9,9 +9,15 @@ import java.util.Map;
 public class ModelView {
 
     private final String viewName;
-    private final Map<String, Object> model = new HashMap<>();
+    private final Map<String, Object> model;
 
     public ModelView(String viewName) {
         this.viewName = viewName;
+        model = new HashMap<>();
+    }
+
+    public ModelView(String viewName, Map<String, Object> model) {
+        this.viewName = viewName;
+        this.model = model;
     }
 }
